@@ -1,0 +1,223 @@
+Microsoft Windows [Versión 10.0.18362.900]
+(c) 2019 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Admin> cd desktop
+
+C:\Users\Admin\Desktop> cd contenidobootcamp
+
+C:\Users\Admin\Desktop\contenidobootcamp> Módulo 3
+"Módulo" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\contenidobootcamp>modulo 3
+"modulo" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\contenidobootcamp> dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 801B-B1CD
+
+ Directorio de C:\Users\Admin\Desktop\contenidobootcamp
+
+11-06-2020  17:26    <DIR>          .
+11-06-2020  17:26    <DIR>          ..
+07-06-2020  22:34    <DIR>          Apresto laboral
+12-06-2020  19:09    <DIR>          Ejercicios de otros
+11-06-2020  17:26           179,957 evaluacion3.rar
+24-05-2020  14:58    <DIR>          growth hacking
+05-06-2020  01:50    <DIR>          Machine Learning
+11-06-2020  20:06    <DIR>          Módulo 3
+21-05-2020  15:23    <DIR>          pruebasql
+05-06-2020  19:57            20,105 Reporte 023_05-06-2020 1921 horas.xlsx
+04-06-2020  21:33    <DIR>          Wordpress
+               2 archivos        200,062 bytes
+               9 dirs  915,397,189,632 bytes libres
+
+C:\Users\Admin\Desktop\contenidobootcamp>cd Módulo 3
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 801B-B1CD
+
+ Directorio de C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3
+
+11-06-2020  20:06    <DIR>          .
+11-06-2020  20:06    <DIR>          ..
+06-06-2020  11:52    <DIR>          Ejercicio 30
+07-06-2020  13:39    <DIR>          Ejercicio 31
+07-06-2020  14:42    <DIR>          Ejercicio 32
+07-06-2020  15:19    <DIR>          Ejercicio 33
+06-06-2020  15:01    <DIR>          Ejercicio 34
+06-06-2020  15:54    <DIR>          Ejercicio 35
+06-06-2020  16:40    <DIR>          Ejercicio 36
+06-06-2020  19:17    <DIR>          Ejercicio 37
+06-06-2020  20:49    <DIR>          Ejercicio 38
+07-06-2020  12:19    <DIR>          Ejercicio 39
+08-06-2020  21:45    <DIR>          Ejercicio 40
+09-06-2020  12:14    <DIR>          Ejercicio 41
+09-06-2020  14:11    <DIR>          Ejercicio 42
+09-06-2020  19:06    <DIR>          Ejercicio 43
+12-06-2020  19:59    <DIR>          Ejercicio 44
+12-06-2020  18:21    <DIR>          Ejercicio 45
+09-06-2020  22:03    <DIR>          Ejercicio 46
+09-06-2020  22:04    <DIR>          Ejercicio 47
+09-06-2020  22:04    <DIR>          Ejercicio 48
+22-05-2020  21:25    <DIR>          Ejercicio1
+27-05-2020  20:12    <DIR>          Ejercicio10
+26-05-2020  19:06    <DIR>          Ejercicio11
+26-05-2020  19:06    <DIR>          Ejercicio12
+30-05-2020  18:40    <DIR>          Ejercicio13
+30-05-2020  19:02    <DIR>          Ejercicio14
+30-05-2020  23:02    <DIR>          Ejercicio15
+31-05-2020  01:06    <DIR>          Ejercicio16
+31-05-2020  12:00    <DIR>          Ejercicio17
+31-05-2020  12:25    <DIR>          Ejercicio18
+02-06-2020  14:55    <DIR>          Ejercicio19
+23-05-2020  20:36    <DIR>          Ejercicio2
+03-06-2020  12:31    <DIR>          Ejercicio20
+03-06-2020  12:33    <DIR>          Ejercicio21
+07-06-2020  21:51    <DIR>          Ejercicio22
+04-06-2020  23:04    <DIR>          Ejercicio23
+04-06-2020  23:05    <DIR>          Ejercicio24
+05-06-2020  19:13    <DIR>          Ejercicio25
+05-06-2020  19:13    <DIR>          Ejercicio26
+05-06-2020  21:09    <DIR>          Ejercicio27
+05-06-2020  22:14    <DIR>          Ejercicio28
+05-06-2020  23:33    <DIR>          Ejercicio29
+23-05-2020  09:56    <DIR>          Ejercicio3
+23-05-2020  15:05    <DIR>          Ejercicio4
+25-05-2020  18:39    <DIR>          Ejercicio5
+25-05-2020  20:31    <DIR>          Ejercicio6
+26-05-2020  13:58    <DIR>          Ejercicio7
+25-05-2020  20:53    <DIR>          Ejercicio8
+26-05-2020  18:47    <DIR>          Ejercicio9
+22-05-2020  19:14         2,820,881 El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf
+11-06-2020  17:30    <DIR>          evaluacionfinal
+11-06-2020  20:06         2,761,381 evaluacionfinal.rar
+29-05-2020  22:59    <DIR>          evaluación intermedia
+06-06-2020  15:09    <DIR>          fancybox-master
+06-06-2020  15:09           140,771 fancybox-master.zip
+06-06-2020  10:59            89,476 jquery-3.5.1.min.js
+11-06-2020  02:40             1,051 login.html
+27-05-2020  22:29           659,820 manual-css3.pdf
+22-05-2020  19:11         1,065,789 Modulo 3 Clase 1 - El Entorno de Desarrollo y Lenguaje HTML.pdf
+26-05-2020  18:54         1,587,494 Modulo 3 Clase 2 -Manejando hojas de estilo.pdf
+27-05-2020  22:17         1,215,889 Modulo 3 Clase 3- Responsividad.pdf
+31-05-2020  11:12         1,196,411 Modulo 3 Clase 4- Javascript.pdf
+05-06-2020  23:40         1,129,150 Modulo 3 Clase 5 - JQuery.pdf
+24-05-2020  15:35           861,173 Modulo 3 Clase 6 - Git.pdf
+              12 archivos     13,529,286 bytes
+              53 dirs  915,397,189,632 bytes libres
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3>cd Ejercicio 45
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45>git init
+Initialized empty Git repository in C:/Users/Admin/Desktop/contenidobootcamp/Módulo 3/Ejercicio 45/.git/
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45>md fullstackjava
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45>cd fullstackjava
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>cd fullstackjava
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>md fullstackjava
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>fullstackjava
+"fullstackjava" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git init
+Initialized empty Git repository in C:/Users/Admin/Desktop/contenidobootcamp/Módulo 3/Ejercicio 45/fullstackjava/.git/
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        fullstackjava/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git commit -m "Primera
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        fullstackjava/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        fullstackjava/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git add .
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git commit -m "versión actualizada del contenido"
+[master (root-commit) a41aa4d] versión actualizada del contenido
+ 1 file changed, 6 insertions(+)
+ create mode 100644 fullstackjava/contenidos.txt
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git diff
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git commit - "hola"
+error: pathspec '-' did not match any file(s) known to git
+error: pathspec 'hola' did not match any file(s) known to git
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git commit -m "hola"
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fullstackjava/contenidos.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git diff
+diff --git a/fullstackjava/contenidos.txt b/fullstackjava/contenidos.txt
+index 37ddb39..362a168 100644
+--- a/fullstackjava/contenidos.txt
++++ b/fullstackjava/contenidos.txt
+@@ -3,4 +3,7 @@ M<C3><B3>dulo 2: Lenguaje de Consultas a una Base de Datos
+ M<C3><B3>dulo 3: Fundamentos de Desarrollo Web
+
+  <E2><80><9C>M<C3><B3>dulo 4: Desarrollo de
+-aplicaciones web din<C3><A1>micas con Java<E2><80><9D>
+\ No newline at end of file
++aplicaciones web din<C3><A1>micas con Java<E2><80><9D>
++
++
++Hola
+\ No newline at end of file
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>git log
+commit a41aa4dd361a8004dc3b3fdf433bc8a7d1e7c4eb (HEAD -> master)
+Author: Paula <paulafullstack@gmail.com>
+Date:   Fri Jun 12 21:30:01 2020 -0500
+
+    versi<C3><B3>n actualizada del contenido
+
+C:\Users\Admin\Desktop\contenidobootcamp\Módulo 3\Ejercicio 45\fullstackjava>
